@@ -5,10 +5,8 @@ math: true
 order: 10
 ---
 
-# $\LaTeX$
-[$\LaTeX$](https://pbeama.github.io/LaTeX)
+# [$\LaTeX$](/LaTeX/)
 
-[$\LaTeX$](/LaTeX/)
 
 
 ## Appendix
