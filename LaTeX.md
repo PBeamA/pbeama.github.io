@@ -4,8 +4,8 @@ title: LaTeX
 permalink: /LaTeX/
 math: true
 ---
+FIRST LINE DOESN'T SHOW UP... WEIRDDDDDDDDDDDDD
 
-The line above doesn't show up... weird
 # $\LaTeX$
 TEST
 WHAT CAN I DO?
