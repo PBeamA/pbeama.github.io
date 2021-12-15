@@ -8,7 +8,7 @@ order: 2
   - 2021S2 (First half) (Instructor)
 
 - FINC204: Personal Finance
-  - 2021SS (Instructor/Course Coordinator)
+  - 2021SS, 2022SS (Instructor/Course Coordinator)
 
 ## Guest Lecturer
 - PERF205/305: The Creative Industries
