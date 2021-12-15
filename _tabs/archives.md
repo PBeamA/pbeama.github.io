@@ -11,41 +11,6 @@ Add ```\preappendix``` before and ```\postappendix``` after.
 
 For sections in the appendix use ```\subsection``` instead of ```\section```.
 
-```
-\makeatletter
-\newcommand\preappendix{%
-  \appendix
- \newcommand{\hbAppendixPrefix}{\Alph{subsection}}
-
- \renewcommand{\thefigure}{\hbAppendixPrefix\arabic{figure}}
- \setcounter{figure}{0}
- \renewcommand{\thetable}{\hbAppendixPrefix\arabic{table}}
- \setcounter{table}{0}
- \renewcommand{\theequation}{\hbAppendixPrefix\arabic{equation}}
- \setcounter{equation}{0}
-
- \counterwithin{figure}{subsection}
- \counterwithin{table}{subsection}
- \counterwithin{equation}{subsection}
-
- % \singlespacing
- \renewcommand{\thesubsection}{\Alph{subsection}}
- \section*{Appendix}\label{sec:Appendix}\addcontentsline{toc}{section}{Appendix}\appendix
-}
-
-\newcommand\postappendix{%
-% For endfloats
-  % \newcommand{\hbAppendixPrefix}{\arabic{subsection}}
- \renewcommand{\thefigure}{\arabic{figure}}
- \setcounter{figure}{0}
- \renewcommand{\thetable}{\Roman{table}}
- \setcounter{table}{0}
- \renewcommand{\theequation}{\arabic{equation}}
- \setcounter{equation}{0}
-}
-\makeatother
-```
-
 # MATLAB
 ## Save figure as PDF (and PNG)
 ```
