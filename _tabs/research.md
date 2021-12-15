@@ -28,6 +28,9 @@ order: 1
   - Aschakulporn, Pakorn, and Zhang, Jin E., New Zealand Whole Milk Powder Options.
   - Presentor
 
+## Ad-Hoc Reviewer
+- [Journal of Futures Markets](https://onlinelibrary.wiley.com/journal/10969934)
+
 ## Links
 - [Google Scholar](https://scholar.google.co.nz/citations?user=yN9Jj64AAAAJ)
 - <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5514-4384" href="https://orcid.org/0000-0001-5514-4384" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-5514-4384</a></div>
