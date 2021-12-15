@@ -1,6 +1,6 @@
 ---
 title: Archives
-icon: fas fa-book
+icon: fa fa-book
 order: 4
 math: true
 ---
