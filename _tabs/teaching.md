@@ -1,6 +1,6 @@
 ---
 title: Teaching
-icon: fas fa-graduation-cap
+icon: fas fa-chalkboard-teacher
 order: 2
 ---
 ## Teaching Fellow
