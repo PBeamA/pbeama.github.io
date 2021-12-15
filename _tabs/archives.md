@@ -6,6 +6,7 @@ order: 10
 ---
 
 # $\LaTeX$
+($\LaTeX$)[/LaTeX/]
 ## Appendix
 Add ```\preappendix``` before and ```\postappendix``` after.
 
