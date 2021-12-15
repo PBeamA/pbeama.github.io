@@ -2,7 +2,7 @@
 title: Archives
 icon: fa fa-book
 math: true
-order: -1
+order: 10
 ---
 
 # $\LaTeX$
