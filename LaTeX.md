@@ -4,9 +4,8 @@ title: LaTeX
 permalink: /LaTeX/
 math: true
 ---
-123
 
-321
+The line above doesn't show up... weird
 # $\LaTeX$
 TEST
 WHAT CAN I DO?
