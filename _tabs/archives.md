@@ -6,7 +6,11 @@ order: 10
 ---
 
 # $\LaTeX$
-($\LaTeX$)[https://pbeama.github.io/LaTeX]
+[$\LaTeX$](https://pbeama.github.io/LaTeX)
+
+[$\LaTeX$](/LaTeX/)
+
+
 ## Appendix
 Add ```\preappendix``` before and ```\postappendix``` after.
 
