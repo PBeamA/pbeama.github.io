@@ -13,3 +13,7 @@ WHAT CAN I DO?
 $\LaTeX$
 
 
+## Appendix
+Add ```\preappendix``` before and ```\postappendix``` after.
+
+For sections in the appendix use ```\subsection``` instead of ```\section```.
