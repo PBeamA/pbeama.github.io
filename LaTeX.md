@@ -1,4 +1,5 @@
 ---
+layout: default
 title: LaTeX
 permalink: /LaTeX/
 math: true
