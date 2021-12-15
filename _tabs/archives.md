@@ -41,4 +41,4 @@ set(p, 'FaceAlpha', 0.25, 'EdgeColor', 'none');
  
 end
 ```
-Note: Works with MATLAB R2017a and not 2016a
+<sup>Note: Works with MATLAB R2017a and not 2016a</sup>
