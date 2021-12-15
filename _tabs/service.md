@@ -1,6 +1,6 @@
 ---
 title: Service
-icon: fas fa-info-circle
+icon: fas fa-university
 order: 3
 ---
 ## Supervision
