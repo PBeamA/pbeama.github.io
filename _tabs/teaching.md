@@ -12,7 +12,7 @@ order: 2
 
 ## Guest Lecturer
 - PERF205/305: The Creative Industries
-  - 2021S1 (3 Lectures on personal finance)
+  - 2021S1 (3 Lectures on personal finance and basic business structures in NZ)
 
 ## Tutoring
 - FINC102: Business Mathematics
