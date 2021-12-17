@@ -3,14 +3,16 @@ layout: page
 # The Home page layout
 ---
 
-{{ content }}
-
 {% include lang.html %}
 
 {% assign pinned = site.posts | where: "pin", "true" %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true" %}
 
 {% assign posts = "" | split: "" %}
+
+<!-- Insert my own stuff -->
+
+{{ content }}
 
 <!-- Get pinned posts -->
 
