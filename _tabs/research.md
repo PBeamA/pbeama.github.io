@@ -11,16 +11,15 @@ order: 1
 - Aschakulporn, Pakorn, and Zhang, Jin E., 2021, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://doi.org/10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), (forthcoming).
 
 ## Conference Contribution
-- Tenth [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10-12 December 2021, Nanging, China.
+- Tenth [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10 - 12 December 2021, Nanging, China.
   - Aschakulporn, Pakorn, and Zhang, Jin E., Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: An Affine Jump-Diffusion Approach.
   - Presentor; Discussant; Session Chair
 
-
-- [Ninth](http://icfod.org/nd.jsp?id=50#_np=2_3) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 4-5 December 2020, Fudan, China.
+- [Ninth](http://icfod.org/nd.jsp?id=50#_np=2_3) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 4 - 5 December 2020, Fudan, China.
   - Aschakulporn, Pakorn, and Zhang, Jin E., Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: A Gram-Charlier Density Approach.
   - Presentor; Discussant
 
-- [2019](https://acfr.aut.ac.nz/__data/assets/pdf_file/0013/330115/2019-NEW-ZEALAND-FINANCE-MEETING-FULL-PROGRAMME-FINAL.pdf) [New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/past-conferences-and-events/2019-new-zealand-finance-meeting), 18-20 December 2019, Auckland, New Zealand.
+- [2019](https://acfr.aut.ac.nz/__data/assets/pdf_file/0013/330115/2019-NEW-ZEALAND-FINANCE-MEETING-FULL-PROGRAMME-FINAL.pdf) [New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/past-conferences-and-events/2019-new-zealand-finance-meeting), 18 - 20 December 2019, Auckland, New Zealand.
   - Aschakulporn, Pakorn, and Zhang, Jin E., Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators.
   - Presentor; Discussant
 
@@ -32,8 +31,8 @@ order: 1
 - [Journal of Futures Markets](https://onlinelibrary.wiley.com/journal/10969934)
 
 ## Working Papers
-- Struwig, Jasper, **Pakorn Aschakulporn**, and Jin E. Zhang, 2021, The Implied Volatility Smirk of Johnson & Johnson Options during the 2009 H1N1 Pandemic, Under revision.
-- Castaing, Andre, **Pakorn Aschakulporn**, and Jin E. Zhang, 2019, The Impact of Brexit on the Implied Volatility Smirk of the British Pound, Under revision.
+- Struwig, Jasper, Pakorn Aschakulporn, and Jin E. Zhang, 2021, The Implied Volatility Smirk of Johnson & Johnson Options during the 2009 H1N1 Pandemic, Under revision.
+- Castaing, Andre, Pakorn Aschakulporn, and Jin E. Zhang, 2019, The Impact of Brexit on the Implied Volatility Smirk of the British Pound, Under revision.
 
 ## Links
 - [Google Scholar](https://scholar.google.co.nz/citations?user=yN9Jj64AAAAJ)
