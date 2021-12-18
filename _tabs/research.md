@@ -11,7 +11,7 @@ order: 1
 - Aschakulporn, Pakorn, and Zhang, Jin E., 2021, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://doi.org/10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), (forthcoming).
 
 ## Conference Contribution
-- Tenth [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10 - 12 December 2021, Nanging, China.
+- [Tenth](https://onlinelibrary.wiley.com/pb-assets/assets/10969934/Revised_ICFOD2021%20CALL%20FOR%20PAPERS%20Final%20Version%205%20October%202021%20(003)-1633444332.pdf) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10 - 12 December 2021, Nanging, China.
   - Aschakulporn, Pakorn, and Zhang, Jin E., Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: An Affine Jump-Diffusion Approach.
   - Presentor; Discussant; Session Chair
 
@@ -27,12 +27,12 @@ order: 1
   - Aschakulporn, Pakorn, and Zhang, Jin E., New Zealand Whole Milk Powder Options.
   - Presentor
 
-## Ad-Hoc Reviewer
-- [Journal of Futures Markets](https://onlinelibrary.wiley.com/journal/10969934)
-
 ## Working Papers
 - Struwig, Jasper, Pakorn Aschakulporn, and Jin E. Zhang, 2021, The Implied Volatility Smirk of Johnson & Johnson Options during the 2009 H1N1 Pandemic, Under revision.
 - Castaing, Andre, Pakorn Aschakulporn, and Jin E. Zhang, 2019, The Impact of Brexit on the Implied Volatility Smirk of the British Pound, Under revision.
+
+## Ad-Hoc Reviewer
+- [Journal of Futures Markets](https://onlinelibrary.wiley.com/journal/10969934)
 
 ## Links
 - [Google Scholar](https://scholar.google.co.nz/citations?user=yN9Jj64AAAAJ)
