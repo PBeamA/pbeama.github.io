@@ -5,6 +5,8 @@ math: true
 order: 10
 ---
 
+# See my Github repository here: [https://github.com/PBeamA/Resources](https://github.com/PBeamA/Resources)
+
 # [$\LaTeX$](/LaTeX/)
 
 
