@@ -1,5 +1,5 @@
 ---
-title: Archives
+title: Resources
 icon: fa fa-book
 math: true
 order: 10
