@@ -27,9 +27,12 @@ order: 1
   - Aschakulporn, Pakorn, and Zhang, Jin E., New Zealand Whole Milk Powder Options.
   - Presentor
 
+<!--
 ## Working Papers
+- Aschakulporn, Pakorn, and Zhang, Jin E., 2021, Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: An Affine Jump-Diffusion Approach, Submitted for publication.
 - Struwig, Jasper, Pakorn Aschakulporn, and Jin E. Zhang, 2021, The Implied Volatility Smirk of Johnson & Johnson Options during the 2009 H1N1 Pandemic, Under revision.
 - Castaing, Andre, Pakorn Aschakulporn, and Jin E. Zhang, 2019, The Impact of Brexit on the Implied Volatility Smirk of the British Pound, Under revision.
+-->
 
 ## Ad-Hoc Reviewer
 - [Journal of Futures Markets](https://onlinelibrary.wiley.com/journal/10969934)
