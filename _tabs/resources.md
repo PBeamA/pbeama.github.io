@@ -2,13 +2,16 @@
 title: Resources
 icon: fa fa-book
 math: true
-order: 10
+order: 4
 ---
 
-# See my Github repository here: [https://github.com/PBeamA/Resources](https://github.com/PBeamA/Resources)
 
-# [$\LaTeX$](/LaTeX/)
+## [Resources](https://github.com/PBeamA/Resources)
 
+<!--
+## [$\LaTeX$](/LaTeX/)
+-->
+## [AutomatingLaTeX](https://github.com/PBeamA/AutomatingLaTeX)
 
 
 ## Appendix
