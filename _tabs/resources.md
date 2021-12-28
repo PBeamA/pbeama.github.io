@@ -6,13 +6,16 @@ order: 4
 ---
 
 
-## [Resources](https://github.com/PBeamA/Resources)
+### [Resources](https://github.com/PBeamA/Resources)
 
 <!--
 ## [$\LaTeX$](/LaTeX/)
 -->
-## [AutomatingLaTeX](https://github.com/PBeamA/AutomatingLaTeX)
+### [AutomatingLaTeX](https://github.com/PBeamA/AutomatingLaTeX)
 
+
+### Modified Chirpy Template -- This site's template...
+[Template Link](https://github.com/PBeamA/chirpy-starter-modified/generate)
 
 ## Appendix
 Add ```\preappendix``` before and ```\postappendix``` after.
