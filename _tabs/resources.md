@@ -8,6 +8,13 @@ order: 4
 
 ### [Resources](https://github.com/PBeamA/Resources)
 
+#### Assignment Cover Sheet:
+<object data="https://github.com/PBeamA/Resources/raw/master/Academia/CoverSheet.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/PBeamA/Resources/raw/master/Academia/CoverSheet.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/PBeamA/Resources/blob/master/Academia/CoverSheet.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 <!--
 ## [$\LaTeX$](/LaTeX/)
 -->
