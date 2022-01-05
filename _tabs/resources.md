@@ -8,9 +8,11 @@ order: 4
 
 ### [Resources](https://github.com/PBeamA/Resources)
 
+<!--
 #### Assignment Cover Sheet:
 <object data="https://github.com/PBeamA/Resources/raw/master/Academia/CoverSheet.pdf" type="application/pdf" width="700px" height="700px">
 </object>
+-->
 
 <!--
 ## [$\LaTeX$](/LaTeX/)
