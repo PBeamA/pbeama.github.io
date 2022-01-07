@@ -11,6 +11,10 @@ order: 1
 - Aschakulporn, Pakorn, and Zhang, Jin E., 2021, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://doi.org/10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), (forthcoming).
 
 ## Conference Contribution
+- [26th](https://www.nzfc.ac.nz/documents/2022/Colloquium.pdf) [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 17 - 18 February 2022, Christchurch, New Zealand.
+  - Aschakulporn, Pakorn, and Zhang, Jin E., Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: A Gram-Charlier Density Approach.
+  - Presentor
+
 - [Tenth](https://onlinelibrary.wiley.com/pb-assets/assets/10969934/Revised_ICFOD2021%20CALL%20FOR%20PAPERS%20Final%20Version%205%20October%202021%20(003)-1633444332.pdf) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10 - 12 December 2021, Nanging, China.
   - Aschakulporn, Pakorn, and Zhang, Jin E., Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: An Affine Jump-Diffusion Approach.
   - Presentor; Discussant; Session Chair
