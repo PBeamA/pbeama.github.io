@@ -17,6 +17,7 @@ order: 3
 - [Derivatives and Quantitative Finance Group (DQFGroup)](https://blogs.otago.ac.nz/dqfg/)
   - Organiser: October 2019 - October 2021
     - Past Events: [Partial list](https://pbeama.github.io/dqfg/)
+  - Member: 2018 - Current
 - [Department of Accontancy and Finance: Postgraduate Seminars](https://sites.google.com/view/uoseminar)
   - Co-presentor: 12 May 2021
     - Publishing Papers During My PhD
