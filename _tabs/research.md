@@ -14,7 +14,7 @@ order: 1
 1. 26th [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 17 - 18 February 2022, Christchurch, New Zealand.
     - Aschakulporn, Pakorn, and Zhang, Jin E., Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: A Gram-Charlier Density Approach.
     - Presentor
-1. [Tenth](https://onlinelibrary.wiley.com/pb-assets/assets/10969934/Revised_ICFOD2021%20CALL%20FOR%20PAPERS%20Final%20Version%205%20October%202021%20(003)-1633444332.pdf) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10 - 12 December 2021, Nanging, China.
+1. [Tenth](https://onlinelibrary.wiley.com/pb-assets/assets/10969934/Revised_ICFOD2021%20CALL%20FOR%20PAPERS%20Final%20Version%205%20October%202021%20(003)-1633444332.pdf) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10 - 12 December 2021, Nanning, China.
     - Aschakulporn, Pakorn, and Zhang, Jin E., Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: An Affine Jump-Diffusion Approach.
     - Presentor; Discussant; Session Chair
 1. [Ninth](http://icfod.org/nd.jsp?id=50#_np=2_3) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 4 - 5 December 2020, Fudan, China.
