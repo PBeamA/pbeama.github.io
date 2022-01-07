@@ -5,9 +5,10 @@ order: 1
 ---
 
 ## Publications
+- Aschakulporn, Pakorn, and Zhang, Jin E., 2021, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://doi.org/10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), (forthcoming).
+
 - Aschakulporn, Pakorn, and Zhang, Jin E., 2021, [New Zealand Whole Milk Powder Options](https://doi.org/10.1111/acfi.12660), [*Accounting and Finance*](https://onlinelibrary.wiley.com/journal/1467629x) 61(S1), 2201-2246.
 
-- Aschakulporn, Pakorn, and Zhang, Jin E., 2021, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://doi.org/10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), (forthcoming).
 
 ## Conference Contribution
 - 26th [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 17 - 18 February 2022, Christchurch, New Zealand.
