@@ -10,7 +10,7 @@ order: 1
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2021, [New Zealand Whole Milk Powder Options](https://onlinelibrary.wiley.com/share/author/V3DEQPUW7F9BI8UCJPTG?target=10.1111/acfi.12660), [*Accounting and Finance*](https://onlinelibrary.wiley.com/journal/1467629x) 61(S1), 2201-2246.
 
 
-## Conference Contribution
+## Conferences
 1. 26th [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 17 - 18 February 2022, [University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand.
     - Aschakulporn, Pakorn, and Jin E. Zhang, *Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: A Gram-Charlier Density Approach*.
     - Presentor
