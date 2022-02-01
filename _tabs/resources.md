@@ -7,6 +7,15 @@ order: 4
 
 
 ### [Resources](https://github.com/PBeamA/Resources)
+- Academia
+  - Cover Sheet
+- LaTeX
+  - Templates
+    - Paper Template
+    - Presentation (Beamer) Template
+  - References
+    - American Finance Association (AFA) Style
+    - American Psychological Association (APA) Style
 
 <!--
 #### Assignment Cover Sheet:
@@ -23,6 +32,8 @@ order: 4
 ### Modified Chirpy Template -- This site's template...
 [Template Link](https://github.com/PBeamA/chirpy-starter-modified/generate)
 
+
+<!--
 ## Appendix
 Add ```\preappendix``` before and ```\postappendix``` after.
 
@@ -62,3 +73,4 @@ set(p, 'FaceAlpha', 0.25, 'EdgeColor', 'none');
 end
 ```
 <sup>Note: Works with MATLAB R2017a and not 2016a</sup>
+-->
