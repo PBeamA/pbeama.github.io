@@ -18,10 +18,10 @@ order: 3
   - Member: 2018 - Current
   - Organiser: October 2019 - October 2021
     - Past Events: [Partial list](https://pbeama.github.io/dqfg/)
-- [Department of Accontancy and Finance: Postgraduate Seminars](https://sites.google.com/view/uoseminar)
+- [Postgraduate Seminars](https://sites.google.com/view/uoseminar)
   - Co-presentor: 12 May 2021
     - Publishing Papers During My PhD
-- [Department of Accontancy and Finance: PhD Workshops](https://sites.google.com/view/uoworkshop)
+- [PhD Workshops](https://sites.google.com/view/uoworkshop)
   - Participant (Student): October 2018 - October 2021
 ## Roles
 - PhD Representative - Department of Accountancy and Finance
