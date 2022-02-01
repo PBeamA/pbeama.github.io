@@ -8,7 +8,7 @@ order: 4
 
 ### [Resources](https://github.com/PBeamA/Resources)
 - Academia
-  - Cover Sheet
+  - Assignment Cover Sheet
 - LaTeX
   - Templates
     - Paper Template
@@ -27,6 +27,12 @@ order: 4
 ## [$\LaTeX$](/LaTeX/)
 -->
 ### [AutomatingLaTeX](https://github.com/PBeamA/AutomatingLaTeX)
+A step towards getting [knitr](https://github.com/yihui/knitr) for MATLAB...
+- MATLAB to LaTeX
+Getting LaTeX to read MATLAB output efficiently
+- Clean LaTeX
+Remove MATLAB integration to make the LaTeX files standalone
+
 
 
 ### Modified Chirpy Template -- This site's template...
