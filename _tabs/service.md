@@ -22,7 +22,7 @@ order: 3
   - Co-presentor: 12 May 2021
     - Publishing Papers During My PhD
 - [Department of Accontancy and Finance: PhD Workshops](https://sites.google.com/view/uoworkshop)
-  - Participant: October 2018 - Current
+  - Participant (Student): October 2018 - October 2021
 ## Roles
 - PhD Representative - Department of Accountancy and Finance
   - April 2019 - October 2021
