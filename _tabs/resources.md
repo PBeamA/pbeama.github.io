@@ -8,12 +8,12 @@ order: 4
 
 ### [Resources](https://github.com/PBeamA/Resources)
 - Academia
-  - Assignment Cover Sheet
+  - [Assignment Cover Sheet](https://github.com/PBeamA/Resources/blob/master/Academia/CoverSheet.pdf)
 - LaTeX
-  - Templates
+  - [Templates](https://github.com/PBeamA/Resources/tree/master/LaTeX/Templates)
     - Paper Template
     - Presentation (Beamer) Template
-  - References
+  - [References](https://github.com/PBeamA/Resources/tree/master/LaTeX/References)
     - American Finance Association (AFA) Style
     - American Psychological Association (APA) Style
 
