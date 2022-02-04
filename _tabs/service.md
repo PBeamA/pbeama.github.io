@@ -23,6 +23,7 @@ order: 3
     - Publishing Papers During My PhD
 - [PhD Workshops](https://sites.google.com/view/uoworkshop)
   - Participant (Student): October 2018 - October 2021
+
 ## Roles
 - PhD Representative - Department of Accountancy and Finance
   - April 2019 - October 2021
