@@ -25,4 +25,4 @@ order: 2
   - 2019S2, 2020S2
 
 - [FINC405: Mathematical Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC405)
-  - 2019S2, 2020S2 (Co-Lecturer), 2021S2 (Co-Lecturer)
+  - 2019S2, 2020S2, 2021S2
