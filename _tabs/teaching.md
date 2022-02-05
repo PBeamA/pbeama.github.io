@@ -5,7 +5,7 @@ order: 2
 ---
 ## Lecturer (From June 2022)
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
-
+  - 2022S2
 
 ## Ad hoc Positions
 ### Teaching Fellow
