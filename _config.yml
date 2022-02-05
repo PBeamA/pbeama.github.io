@@ -22,6 +22,10 @@ title: Pakorn (Beam) Aschakulporn                         # the main title
 
 tagline: Teaching Fellow/PhD Candidate in Finance   # it will display as the sub-title
 
+address: Department of Accountancy & Finance
+University of Otago
+Dunedin, New Zealand
+
 description: >-                        # used by seo meta and the atom feed
   Just another website...
 
@@ -38,7 +42,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Pakorn (Beam) Aschakulporn
-  email: Beam.Aschakulporn@gmail.com             # change to your email address
+  email: Beam.Aschakulporn@Otago.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
