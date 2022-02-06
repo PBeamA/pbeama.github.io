@@ -19,6 +19,13 @@
   icon: 'fab fa-orcid'
   url:  'https://orcid.org/0000-0001-5514-4384'
 
+-
+  type: GoogleScholar
+  icon: 'fab fa-google'
+  url:  'https://scholar.google.co.nz/citations?user=yN9Jj64AAAAJ'
+  
+  
+
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
