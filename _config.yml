@@ -18,9 +18,17 @@ timezone: Pacific/Auckland
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Beam's Website                         # the main title
+title: Pakorn (Beam) Aschakulporn                         # the main title
 
-tagline: Teaching Fellow/PhD Candidate in Finance   # it will display as the sub-title
+tagline: Teaching Fellow/PhD Candidate in Finance
+Department of Accountancy & Finance
+University of Otago
+Dunedin, New Zealand
+
+Beam.Aschakulporn@otago.ac.nz
+OBS5.01
+
+# it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Just another website...
@@ -38,7 +46,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Pakorn (Beam) Aschakulporn
-  email: Beam.Aschakulporn@Otago.com             # change to your email address
+  email: Beam.Aschakulporn@otago.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
