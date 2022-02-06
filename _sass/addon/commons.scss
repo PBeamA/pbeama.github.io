@@ -3,29 +3,35 @@
 */
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;900&display=swap');
 
-html {
-  @media (prefers-color-scheme: light) {
-    &:not([data-mode]),
-    [data-mode=light] {
-      @include light-scheme;
-    }
+@mixin mode-toggle($dark-mode: false) {
+  @if $dark-mode {
+    @include dark-scheme;
+  } @else {
+    @include light-scheme;
+  }
+}
 
-    &[data-mode=dark] {
-      @include dark-scheme;
-    }
+html:not([mode]),
+html[mode=light] {
+  @include mode-toggle();
+}
+
+html[mode=dark] {
+  @include mode-toggle(true);
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([mode]),
+  html[mode=dark] {
+    @include mode-toggle(true);
   }
 
-  @media (prefers-color-scheme: dark) {
-    &:not([data-mode]),
-    &[data-mode=dark] {
-      @include dark-scheme;
-    }
-
-    &[data-mode=light] {
-      @include light-scheme;
-    }
+  html[mode=light] {
+    @include mode-toggle();
   }
+}
 
+:root {
   font-size: 16px;
 }
 
@@ -98,31 +104,6 @@ blockquote {
   border-left: 5px solid var(--blockquote-border-color);
   padding-left: 1rem;
   color: var(--blockquote-text-color);
-
-  &[class^="prompt-"] {
-    display: flex;
-    border-left: 0;
-    border-radius: 6px;
-    padding: 0.75rem 1.2rem;
-    color: var(--prompt-text-color);
-
-    &::before {
-      margin-right: 1rem;
-      font-family: "Font Awesome 5 Free";
-      text-align: center;
-      width: 1.25rem;
-    }
-
-    p:last-child {
-      margin-bottom: 0rem;
-    }
-  }
-
-  @include prompt("note", "\f0eb", 400);
-
-  @include prompt("warning", "\f06a");
-
-  @include prompt("danger", "\f071");
 }
 
 kbd {
@@ -211,8 +192,6 @@ img[data-src] {
   &.shadow {
     filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.08));
   }
-
-  @extend %img-caption;
 }
 
 /* --- Panels --- */
@@ -268,7 +247,7 @@ img[data-src] {
     }
   }
 
-  [data-topbar-visible=true] & > div {
+  &.topbar-down > div {
     top: 6rem;
   }
 }
@@ -460,8 +439,13 @@ img[data-src] {
       }
     }
 
-    &.img-link {
-      @extend %img-caption;
+    &.img-link + em {
+      display: block;
+      text-align: center;
+      font-style: normal;
+      font-size: 80%;
+      padding: 0;
+      color: #6d6c6c;
     }
 
   }
@@ -586,6 +570,10 @@ img[data-src] {
   box-shadow: 0 0 8px 0 var(--btn-box-shadow) !important;
 }
 
+.topbar-up {
+  top: -3rem !important; /* same as topbar height. */
+}
+
 .no-text-decoration {
   @include no-text-decoration;
 }
@@ -665,9 +653,9 @@ $sidebar-display: "sidebar-display";
   #avatar {
     > a {
       display: block;
-      width: 12rem;
-      height: 12rem;
-      border-radius: 75%;
+      width: 6rem;
+      height: 6rem;
+      border-radius: 50%;
       border: 2px solid rgba(222, 222, 222, 0.7);
       overflow: hidden;
       transform: translateZ(0); // fixed the zoom in Safari
@@ -888,10 +876,6 @@ $sidebar-display: "sidebar-display";
   z-index: 50;
   border-bottom: 1px solid rgba(0, 0, 0, 0.07);
   background-color: var(--topbar-wrapper-bg);
-
-  [data-topbar-visible=false] & {
-    top: -$topbar-height; /* same as topbar height. */
-  }
 }
 
 #topbar {
@@ -1161,6 +1145,32 @@ $sidebar-display: "sidebar-display";
 
   $footer-height: $footer-height-mobile; // overwrite
 
+  #main > div.row:first-child > div:first-child {
+    min-height: calc(100vh - #{$topbar-height} - #{$footer-height});
+  }
+
+  #core-wrapper {
+    min-height: calc(100vh - #{$topbar-height} - #{$footer-height} - #{$bottom-min-height}) !important;
+
+    h1 {
+      margin-top: 2.2rem;
+      font-size: 1.75rem;
+    }
+  }
+
+  #avatar > a {
+    width: 5rem;
+    height: 5rem;
+  }
+
+  .site-subtitle {
+    @include ml-mr(1.8rem);
+  }
+
+  #main-wrapper {
+    padding-bottom: $footer-height;
+  }
+
   footer {
     height: $footer-height;
 
@@ -1179,58 +1189,27 @@ $sidebar-display: "sidebar-display";
     }
   }
 
-  #main > div.row:first-child > div:first-child {
-    min-height: calc(100vh - #{$topbar-height} - #{$footer-height});
-  }
-
-  #core-wrapper {
-    min-height: calc(100vh - #{$topbar-height} - #{$footer-height} - #{$bottom-min-height}) !important;
-
-    h1 {
-      margin-top: 2.2rem;
-      font-size: 1.75rem;
-    }
-
-    .post-content {
-      > blockquote[class^=prompt-] {
-        @include ml-mr(-1.25rem);
-        border-radius: 0;
-      }
-    }
-
-  }
-
-  #avatar > a {
-    width: 5rem;
-    height: 5rem;
-  }
-
-  .site-subtitle {
-    @include ml-mr(1.8rem);
-  }
-
-  #main-wrapper {
-    padding-bottom: $footer-height;
-  }
-
 }
 
 /* hide sidebar and panel */
 @media all and (max-width: 849px) {
-  @mixin slide($append: null) {
-    $basic: transform 0.4s ease;
-    @if $append {
-      -webkit-transition: $basic, $append;
-      transition: $basic, $append;
-    } @else {
-      -webkit-transition: $basic;
-      transition: $basic;
-    }
+  %slide {
+    -webkit-transition: transform 0.4s ease;
+    transition: transform 0.4s ease;
   }
 
   html,
   body {
     overflow-x: hidden;
+  }
+
+  .footnotes ol > li {
+    padding-top: 3.5rem;
+    margin-top: -3.2rem;
+
+    &:first-child {
+      margin-top: -3.5rem;
+    }
   }
 
   [#{$sidebar-display}] {
@@ -1242,10 +1221,11 @@ $sidebar-display: "sidebar-display";
     #main-wrapper {
       transform: translateX(#{$sidebar-width});
     }
+
   }
 
   #sidebar {
-    @include slide;
+    @extend %slide;
 
     transform: translateX(-#{$sidebar-width}); // hide
     -webkit-transform: translateX(-#{$sidebar-width});
@@ -1258,7 +1238,7 @@ $sidebar-display: "sidebar-display";
   }
 
   #main-wrapper {
-    @include slide;
+    @extend %slide;
 
     padding-top: $topbar-height;
   }
@@ -1273,9 +1253,13 @@ $sidebar-display: "sidebar-display";
   }
 
   #topbar-wrapper {
-    @include slide(top 0.2s ease);
+    @extend %slide;
 
     left: 0;
+  }
+
+  .topbar-up {
+    top: 0 !important;
   }
 
   #main > div.row:first-child > div:nth-child(1),
@@ -1324,12 +1308,6 @@ $sidebar-display: "sidebar-display";
 
 } // max-width: 849px
 
-@media all and (max-width: 849px) and (orientation: portrait) {
-  [data-topbar-visible=false] #topbar-wrapper {
-    top: 0;
-  }
-}
-
 /* Phone & Pad */
 @media all and (min-width: 577px) and (max-width: 1199px) {
   footer > .d-flex > div {
@@ -1373,6 +1351,10 @@ $sidebar-display: "sidebar-display";
   #back-to-top {
     bottom: 5.5rem;
     right: 1.2rem;
+  }
+
+  .topbar-up {
+    box-shadow: none !important;
   }
 
   #topbar-title {
