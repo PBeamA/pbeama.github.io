@@ -18,7 +18,6 @@
   type: orcid
   icon: 'fab fa-orcid'
   url:  'https://orcid.org/0000-0001-5514-4384'
-
 -
   type: GoogleScholar
   icon: 'fab fa-google'
