@@ -7,7 +7,7 @@ order: 2
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
   - 2022S2 (Course Coordinator)
 
-### Pre-Lecturer Positions
+### Pre-Lecturer Positions:
 #### Teaching Fellow
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
   - 2021S2 (First half)
@@ -19,7 +19,7 @@ order: 2
 - [PERF205](https://www.otago.ac.nz/courses/papers/index.html?papercode=PERF205)/[305: The Creative Industries](https://www.otago.ac.nz/courses/papers/index.html?papercode=PERF305)
   - 2021S1 (3 Lectures on personal finance and basic business structures in NZ)
 
-#### Tutoring
+#### Tutor
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
   - 2018S2, 2019S1
 
