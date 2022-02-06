@@ -20,15 +20,7 @@ timezone: Pacific/Auckland
 
 title: Pakorn (Beam) Aschakulporn                         # the main title
 
-tagline: Teaching Fellow/PhD Candidate in Finance
-Department of Accountancy & Finance
-University of Otago
-Dunedin, New Zealand
-
-Beam.Aschakulporn@otago.ac.nz
-OBS5.01
-
-# it will display as the sub-title
+tagline: Teaching Fellow/PhD Candidate in Finance   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Just another website...
