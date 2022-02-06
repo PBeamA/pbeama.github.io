@@ -3,11 +3,9 @@
 -->
 
 <div id="sidebar" class="d-flex flex-column align-items-end" lang="{{lang}}">
-<center>
-<a href="https://www.otago.ac.nz/"><img width="160" height="80" alt="University of Otago - Te Whare Wānanga o Otāgo" src="https://www.otago.ac.nz/_assets/_gfx/logo.png" srcset="https://www.otago.ac.nz/_assets/_gfx/logo@2x.png 2x" style="border:1px solid black;"></a>
-</center>
   <div class="profile-wrapper text-center">
     <div id="avatar">
+<a href="https://www.otago.ac.nz/"><img width="160" height="80" alt="University of Otago - Te Whare Wānanga o Otāgo" src="https://www.otago.ac.nz/_assets/_gfx/logo.png" srcset="https://www.otago.ac.nz/_assets/_gfx/logo@2x.png 2x" style="border:1px solid black;"></a>
       <a href="{{ '/' | relative_url }}" alt="avatar" class="mx-auto">
         {% if site.avatar != '' and site.avatar %}
           {% capture avatar_url %}
@@ -28,7 +26,8 @@
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
     </div>
     <div class="site-subtitle font-italic">{{ site.tagline }}</div>
-<center>
+
+<div class="site-subtitle font-italic">
     <small>
     <a href="https://www.otago.ac.nz/accountancyfinance/index.html">Department of Accountancy & Finance</a> </br>
     <a href="https://www.otago.ac.nz/">University of Otago</a> </br>
@@ -37,7 +36,7 @@
     <a href="mailto:Beam.Aschakulporn@otago.ac.nz">Beam.Aschakulporn@otago.ac.nz</a> </br>
     Office: <a href="https://www.otago.ac.nz/business/index.html">OBS</a>5.01
     </small>
-</center>
+</div>
 
   </div><!-- .profile-wrapper -->
 
