@@ -11,7 +11,6 @@ order: 2
 #### Teaching Fellow
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
   - 2021S2 (First half)
-
 - [FINC204: Personal Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC204)
   - 2021SS, 2022SS (Course Coordinator)
 
@@ -22,12 +21,11 @@ order: 2
 #### Tutor
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
   - 2018S2, 2019S1
-
 - [FINC204: Personal Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC204)
   - 2019SS
-
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
   - 2019S2, 2020S2
-
 - [FINC405: Mathematical Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC405)
   - 2019S2, 2020S2, 2021S2
+- [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
+  - 2021S1 (Substitute tutor)
