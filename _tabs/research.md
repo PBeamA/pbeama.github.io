@@ -3,11 +3,13 @@ title: Research
 icon: fas fa-graduation-cap
 order: 1
 ---
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 ## Publications
-1. Aschakulporn, Pakorn, and Jin E. Zhang, 2021, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://onlinelibrary.wiley.com/share/author/ECBFPGMCDSNCGXD6X6RH?target=10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934) 42(3), 365-388.
+1. Aschakulporn, Pakorn, and Jin E. Zhang, 2021, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://onlinelibrary.wiley.com/share/author/ECBFPGMCDSNCGXD6X6RH?target=10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934) 42(3), 365-388. <div class='altmetric-embed' data-doi='10.1002/fut.22280'></div>
 
-1. Aschakulporn, Pakorn, and Jin E. Zhang, 2021, [New Zealand Whole Milk Powder Options](https://onlinelibrary.wiley.com/share/author/V3DEQPUW7F9BI8UCJPTG?target=10.1111/acfi.12660), [*Accounting and Finance*](https://onlinelibrary.wiley.com/journal/1467629x) 61(S1), 2201-2246.
+1. Aschakulporn, Pakorn, and Jin E. Zhang, 2021, [New Zealand Whole Milk Powder Options](https://onlinelibrary.wiley.com/share/author/V3DEQPUW7F9BI8UCJPTG?target=10.1111/acfi.12660), [*Accounting and Finance*](https://onlinelibrary.wiley.com/journal/1467629x) 61(S1), 2201-2246. <div class='altmetric-embed' data-doi='10.1111/acfi.12660'></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="116091702"></div>
 
 
 ## Conferences
