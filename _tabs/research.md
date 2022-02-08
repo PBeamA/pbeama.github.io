@@ -3,7 +3,6 @@ title: Research
 icon: fas fa-graduation-cap
 order: 1
 ---
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 ## Publications
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2021, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://onlinelibrary.wiley.com/share/author/ECBFPGMCDSNCGXD6X6RH?target=10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934) 42(3), 365-388.
