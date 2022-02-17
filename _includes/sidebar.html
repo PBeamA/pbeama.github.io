@@ -5,7 +5,7 @@
 <div id="sidebar" class="d-flex flex-column align-items-end" lang="{{lang}}">
   <div class="profile-wrapper text-center">
     <div id="avatar">
-<!--      <a href="{{ '/' | relative_url }}" alt="avatar" class="mx-auto"> -->
+      <a href="{{ '/' | relative_url }}" alt="avatar" class="mx-auto">
         {% if site.avatar != '' and site.avatar %}
           {% capture avatar_url %}
             {%- if site.avatar contains '://' -%}
@@ -18,7 +18,7 @@
           {% endcapture %}
           <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
         {% endif %}
-<!--      </a> -->
+      </a>
     </div>
 
     <div class="site-title mt-3">
