@@ -11,11 +11,11 @@ order: 4
   - [Assignment Cover Sheet](https://github.com/PBeamA/Resources/blob/master/Academia/CoverSheet.pdf)
 - LaTeX
   - [Templates](https://github.com/PBeamA/Resources/tree/master/LaTeX/Templates)
-    - Paper Template
-    - Presentation (Beamer) Template
+    - [Paper Template](https://github.com/PBeamA/Resources/blob/master/LaTeX/Templates/PaperTemplate.pdf)
+    - [Presentation (Beamer) Template](https://github.com/PBeamA/Resources/blob/master/LaTeX/Templates/BeamerTemplate.pdf)
   - [References](https://github.com/PBeamA/Resources/tree/master/LaTeX/References)
-    - American Finance Association (AFA) Style
-    - American Psychological Association (APA) Style
+    - [American Finance Association (AFA) Style](https://github.com/PBeamA/Resources/blob/master/LaTeX/References/ReferencesAFA.tex)
+    - [American Psychological Association (APA) Style](https://github.com/PBeamA/Resources/blob/master/LaTeX/References/ReferencesAPA.tex)
 
 <!--
 #### Assignment Cover Sheet:
