@@ -35,9 +35,11 @@ Remove MATLAB integration to make the LaTeX files standalone
 
 
 
-### Modified Chirpy Template -- This site's template...
+### Modified Chirpy Template -- This site's template...[^1]
 [Template Link](https://github.com/PBeamA/chirpy-starter-modified/generate)
 
+
+[^1]: a slightly older template... If you'd like the new one, just let me know
 
 <!--
 ## Appendix
