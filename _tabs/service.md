@@ -24,7 +24,7 @@ order: 3
     - Past Events: [Partial list](https://pbeama.github.io/dqfg/)
 - [Postgraduate Seminars](https://sites.google.com/view/uoseminar)
   - Co-presentor: 12 May 2021
-    - Publishing Papers During My PhD
+    - Presentation Title: "Publishing Papers During My PhD"
 - [PhD Workshops](https://sites.google.com/view/uoworkshop)
   - Participant (Student): October 2018 - October 2021
 
