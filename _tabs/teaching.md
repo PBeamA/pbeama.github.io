@@ -10,18 +10,18 @@ order: 2
   - 2022S2 (Course Coordinator)
 
 
-### Pre-Lecturer Positions:
-#### Teaching Fellow
+## Pre-Lecturer Positions:
+### Teaching Fellow
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
   - 2021S2 (First half)
 - [FINC204: Personal Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC204)
   - 2021SS (Course Coordinator), 2022SS (Course Coordinator)
 
-#### Guest Lecturer
+### Guest Lecturer
 - [PERF205](https://www.otago.ac.nz/courses/papers/index.html?papercode=PERF205)/[305: The Creative Industries](https://www.otago.ac.nz/courses/papers/index.html?papercode=PERF305)
   - 2021S1 (3 Lectures on personal finance and basic business structures in NZ)
 
-#### Tutor
+### Tutor
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
   - 2021S1 (Substitute tutor)
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
