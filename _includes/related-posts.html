@@ -60,6 +60,7 @@
 {% assign less = TOTAL_SIZE | minus: index_list.size %}
 
 {% if less > 0 %}
+
   {% for i in (0..last_index) %}
     {% assign post = site.posts[i] %}
     {% if post.url != page.url  %}
@@ -73,7 +74,9 @@
       {% endunless %}
     {% endif %}
   {% endfor %}
+
 {% endif %}
+
 
 {% if index_list.size > 0 %}
   <div id="related-posts" class="mt-5 mb-2 mb-sm-4">
@@ -86,7 +89,7 @@
       <div class="card">
         <a href="{{ post.url | relative_url }}">
           <div class="card-body">
-            {% include datetime.html date=post.date class="small" %}
+            {% include timeago.html date=post.date class="small" %}
             <h3 class="pt-0 mt-1 mb-3" data-toc-skip>{{ post.title }}</h3>
             <div class="text-muted small">
               <p>
