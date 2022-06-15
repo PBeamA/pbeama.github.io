@@ -66,6 +66,11 @@ post:
   written_by: By
   posted: Posted
   updated: Updated
+    timeago:
+    day: days ago
+    hour: hours ago
+    minute: minutes ago
+    just_now: just now
   words: words
   pageview_measure: views
   read_time:
