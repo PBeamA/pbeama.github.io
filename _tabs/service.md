@@ -4,11 +4,9 @@ icon: fas fa-university
 order: 3
 ---
 ### Supervision
-<!--
 #### Doctor of Philosophy
 - Ongoing
   - Wen (Derrick) Xu, 2022, Primary Supervisor: Prof. Jin E. Zhang (60%)
--->
 
 #### Master of Finance
 - Completed
