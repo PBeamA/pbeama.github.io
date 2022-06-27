@@ -39,6 +39,7 @@ order: 1
 
 ## Ad-Hoc Reviewer
 - [Journal of Futures Markets](https://onlinelibrary.wiley.com/journal/10969934)
+- [Finance Research Letters](https://www.sciencedirect.com/journal/finance-research-letters)
 
 ## Links
 - [Google Scholar](https://scholar.google.co.nz/citations?user=yN9Jj64AAAAJ)
