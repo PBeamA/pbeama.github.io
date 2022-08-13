@@ -6,4 +6,6 @@ order: 5
 
 ## Test
 
-<div class='lr_embed' style='position: relative; padding-bottom: 50%; height: 0; overflow: hidden;'><iframe id='iframe' src='https://lightroom.adobe.com/embed/shares/2b47a6aa929c4a33ae282006fb6eb69e/slideshow?background_color=%232D2D2D&color=%23999999' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe></div>
+[Here's a link...](https://lightroom.adobe.com/shares/2b47a6aa929c4a33ae282006fb6eb69e)
+
+<div class="image app-assets-javascripts-_viewer-grid-views-adaptivephotorenderer--adaptiveAsset--yQgaF" hovering="false" style="background-image: url(&quot;https://lightroom.adobe.com/v2c/spaces/2b47a6aa929c4a33ae282006fb6eb69e/assets/936ce9571dac43bfb73e2ed87893cc90/revisions/10488374661b4a40bc680d2598343d24/renditions/8b83479fb43f7d71555ee52d5600f2b1&quot;);"></div>
