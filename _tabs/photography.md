@@ -1,6 +1,6 @@
 ---
 title: Photography
-icon: fa fa-picture-o
+icon: fa-picture-o
 order: 5
 ---
 
