@@ -31,6 +31,6 @@ order: 3
   - Co-host: October 2022 - Current
   - Participant (Student): October 2018 - October 2021
 - Postgraduate Committee
-  - Member: June 2022 - Current
+  - June 2022 - Current
 - PhD Representative - Department of Accountancy and Finance
   - April 2019 - October 2021
