@@ -17,10 +17,10 @@ order: 1
 1. 26th [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 17 - 18 February 2022, [University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand.
     - Aschakulporn, Pakorn, and Jin E. Zhang, *Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: A Gram-Charlier Density Approach*.
     - Presentor
-1. [Tenth](https://onlinelibrary.wiley.com/pb-assets/assets/10969934/Revised_ICFOD2021%20CALL%20FOR%20PAPERS%20Final%20Version%205%20October%202021%20(003)-1633444332.pdf) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10 - 12 December 2021, [Fudan University](https://www.fudan.edu.cn/en/) and [Beihang University](https://ev.buaa.edu.cn/), Nanning, China.
+1. [Tenth](https://onlinelibrary.wiley.com/pb-assets/assets/10969934/Revised_ICFOD2021%20CALL%20FOR%20PAPERS%20Final%20Version%205%20October%202021%20(003)-1633444332.pdf) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10 - 12 December 2021, [Guangxi University](https://english.gxu.edu.cn/) and [Beihang University](https://ev.buaa.edu.cn/), Nanning, China.
     - Aschakulporn, Pakorn, and Jin E. Zhang, *Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: An Affine Jump-Diffusion Approach*.
     - Presentor; Discussant; Session Chair
-1. [Ninth](http://icfod.org/nd.jsp?id=50#_np=2_3) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 4 - 5 December 2020, [Fudan University](https://www.fudan.edu.cn/en/) and [Beihang University](https://ev.buaa.edu.cn/), Fudan, China.
+1. [Ninth](http://icfod.org/nd.jsp?id=50#_np=2_3) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 4 - 5 December 2020, [Fudan University](https://www.fudan.edu.cn/en/) and [Beihang University](https://ev.buaa.edu.cn/), Nanning, China.
     - Aschakulporn, Pakorn, and Jin E. Zhang, *Bakshi, Kapadia, and Madan (2003) Risk-Neutral Moment Estimators: A Gram-Charlier Density Approach*.
     - Presentor; Discussant
 1. [2019](https://acfr.aut.ac.nz/__data/assets/pdf_file/0013/330115/2019-NEW-ZEALAND-FINANCE-MEETING-FULL-PROGRAMME-FINAL.pdf) [New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/past-conferences-and-events/2019-new-zealand-finance-meeting), 18 - 20 December 2019, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
