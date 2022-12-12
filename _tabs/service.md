@@ -20,6 +20,7 @@ order: 3
 
 ### Groups/Roles
 - [Derivatives and Quantitative Finance Group (DQFGroup)](https://blogs.otago.ac.nz/dqfg/)
+  - Deputy Director: 2022 - Current
   - Member: 2018 - Current
   - Organiser: October 2019 - October 2021
     - Past Events: [Partial list](https://pbeama.github.io/dqfg/)
