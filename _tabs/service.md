@@ -33,5 +33,7 @@ order: 3
   - Participant (Student): October 2018 - October 2021
 - Postgraduate Committee
   - June 2022 - Current
+- AKO Committee
+  - January 2023 - Current
 - PhD Representative - Department of Accountancy and Finance
   - April 2019 - October 2021
