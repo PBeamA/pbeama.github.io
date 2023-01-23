@@ -7,7 +7,7 @@ order: 4
 
 
 ### [Resources](https://github.com/PBeamA/Resources)
-- Teaching
+- Courses...
   - [Assignment Cover Sheet](https://github.com/PBeamA/Resources/blob/master/Academia/CoverSheet.pdf)
   - [MFinc Template](https://github.com/PBeamA/OtagoMFincTemplate/blob/main/MFincTemplate.docx)
 - LaTeX
