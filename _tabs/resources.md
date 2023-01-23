@@ -7,8 +7,9 @@ order: 4
 
 
 ### [Resources](https://github.com/PBeamA/Resources)
-- Academia
+- Teaching
   - [Assignment Cover Sheet](https://github.com/PBeamA/Resources/blob/master/Academia/CoverSheet.pdf)
+  - [MFinc Template](https://github.com/PBeamA/OtagoMFincTemplate/blob/main/MFincTemplate.docx)
 - LaTeX
   - [Templates](https://github.com/PBeamA/Resources/tree/master/LaTeX/Templates)
     - [Paper Template](https://github.com/PBeamA/Resources/blob/master/LaTeX/Templates/PaperTemplate.pdf)
