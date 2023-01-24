@@ -9,7 +9,8 @@ order: 4
 ### [Resources](https://github.com/PBeamA/Resources)
 - Courses...
   - [Assignment Cover Sheet](https://github.com/PBeamA/Resources/blob/master/Academia/CoverSheet.pdf)
-  - [MFinc Template](https://github.com/PBeamA/OtagoMFincTemplate/blob/main/MFincTemplate.docx)
+  - [MFinc Template (MSWord)](https://github.com/PBeamA/OtagoTemplates/blob/main/MFincTemplate.docx)
+  - [Paper Template (MSWord)](https://github.com/PBeamA/OtagoTemplates/blob/main/PaperTemplate.docx)
 - LaTeX
   - [Templates](https://github.com/PBeamA/Resources/tree/master/LaTeX/Templates)
     - [Paper Template](https://github.com/PBeamA/Resources/blob/master/LaTeX/Templates/PaperTemplate.pdf)
