@@ -17,7 +17,7 @@ order: 1
 1. 27th [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 16 - 17 February 2023, [Victoria University of Wellington](https://www.wgtn.ac.nz/), Wellington, New Zealand.
     - Aschakulporn, Pakorn, and Jin E. Zhang, *The Edgeworth and Gram-Charlier Densities*.
     - Presenter; Session Chair
-1. 2022 [New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2022-new-zealand-finance-meeting), 8 - 9 December 2019, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
+1. 2022 [New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2022-new-zealand-finance-meeting), 8 - 9 December 2022, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
     - Struwig, Jasper, Pakorn Aschakulporn, and Jin E. Zhang, *The Implied Volatility Smirk of Pharmaceutical Options during the COVID-19 Pandemic*.
     - Presenter; Discussant; (Substitute) Session Chair
 1. 26th [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 17 - 18 February 2022, [University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand.
