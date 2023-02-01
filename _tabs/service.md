@@ -8,6 +8,7 @@ order: 3
 #### Doctor of Philosophy
 - Ongoing
   - Wen (Derrick) Xu, 2022, Primary Supervisor: Prof. Jin E. Zhang (60%)
+  - Wen (Derrick) Xu, 2022, Primary Supervisor: Dr. Xinfeng Ruan (45%), Prof. Jin E. Zhang (30%)
 -->
 #### Master of Finance
 - Ongoing
