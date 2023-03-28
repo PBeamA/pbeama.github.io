@@ -4,16 +4,18 @@ icon: fas fa-university
 order: 3
 ---
 ### Supervision
-<!--
+
 #### Doctor of Philosophy
 - Ongoing
-  - Wen (Derrick) Xu, 2022, Primary Supervisor: Prof. Jin E. Zhang (60%)
-  - Wen (Derrick) Xu, 2022, Primary Supervisor: Dr. Xinfeng Ruan (45%), Prof. Jin E. Zhang (30%)
--->
+  - Wen (Derrick) Xu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
+  - Weihan Li, 2023, Primary Supervisor: Dr. Xinfeng Ruan (45%), Prof. Jin E. Zhang (30%)
+
 #### Master of Finance
+<!--
 - Ongoing
-  - [Ben Wilkinson](https://www.linkedin.com/in/ben-wilkinson-2bb6891b9/), 2023, Primary Supervisor: Dr. Sebastian Gehricke
+-->
 - Completed
+  - [Ben Wilkinson](https://www.linkedin.com/in/ben-wilkinson-2bb6891b9/), 2023, Primary Supervisor: Dr. Sebastian Gehricke
   - [Jasper Struwig](https://www.linkedin.com/in/jasper-struwig-9b86a016a/), 2022, Primary Supervisor: Prof. Jin E. Zhang (60%)
 
 #### Summer Research Scholarship
