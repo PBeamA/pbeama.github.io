@@ -5,7 +5,7 @@ order: 2
 ---
 ## Lecturer
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
-  - 2023S1 (TBC)
+  - 2023S1 (Course Coordinator)
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
   - 2022S2 (Course Coordinator)
 
