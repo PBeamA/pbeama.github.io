@@ -8,7 +8,7 @@ order: 3
 #### Doctor of Philosophy
 - Ongoing
   - Wen (Derrick) Xu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
-  - Weihan Li, 2023, Primary Supervisor: Dr. Xinfeng Ruan (45%), Prof. Jin E. Zhang (30%)
+  - Weihan Li, 2023, Primary Supervisor: Prof. Jin E. Zhang (45%), A.Prof. Xinfeng Ruan (30%)
 
 #### Master of Finance
 <!--
@@ -19,9 +19,11 @@ order: 3
   - [Jasper Struwig](https://www.linkedin.com/in/jasper-struwig-9b86a016a/), 2022, Primary Supervisor: Prof. Jin E. Zhang (60%)
 
 #### Summer Research Scholarship
+<!--
 - Ongoing
-  - Arrian Ryan, 2023, Primary Supervisor: A.Prof. Helen Roberts
+-->
 - Completed
+  - Arrian Ryan, 2023, Primary Supervisor: A.Prof. Helen Roberts
   - [Jasper Struwig](https://www.linkedin.com/in/jasper-struwig-9b86a016a/), 2021, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - [Andre Castaing](https://www.linkedin.com/in/andre-castaing-840a8315a/), 2019, Primary Supervisor: Prof. Jin E. Zhang (60%)
 
