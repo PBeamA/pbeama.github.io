@@ -9,6 +9,10 @@ layout: default
 
 {% assign posts = '' | split: '' %}
 
+<!-- Insert my own stuff -->
+
+{{ content }}
+
 <!-- Get pinned posts -->
 
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
