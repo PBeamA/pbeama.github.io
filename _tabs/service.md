@@ -26,7 +26,7 @@ order: 3
 - Ongoing
 -->
 - Completed
-  - Arrian Ryan, 2023, Primary Supervisor: A.Prof. Helen Roberts
+  - [Arrian Ryan](https://www.linkedin.com/in/arrian-ryan/), 2023, Primary Supervisor: A.Prof. Helen Roberts
   - [Jasper Struwig](https://www.linkedin.com/in/jasper-struwig-9b86a016a/), 2021, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - [Andre Castaing](https://www.linkedin.com/in/andre-castaing-840a8315a/), 2019, Primary Supervisor: Prof. Jin E. Zhang (60%)
 
