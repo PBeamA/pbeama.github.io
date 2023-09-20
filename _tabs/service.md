@@ -7,6 +7,8 @@ order: 3
 
 #### Doctor of Philosophy
 - Ongoing
+  - Tianjiao Li, 2023, Co-supervisor: Prof. Jin E. Zhang (40%)
+  - Ruizi Hu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - Wen (Derrick) Xu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - Weihan Li, 2023, Primary Supervisor: Dr. Xinfeng Ruan (45%), Prof. Jin E. Zhang (30%)
 
