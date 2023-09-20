@@ -731,8 +731,8 @@ $btn-mb: 0.5rem;
 
   #avatar {
     display: block;
-    width: 9rem;
-    height: 9rem;
+    width: 7rem;
+    height: 7rem;
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
@@ -741,7 +741,7 @@ $btn-mb: 0.5rem;
       transition: transform 0.5s;
 
       &:hover {
-        transform: scale(1.5);
+        transform: scale(1.2);
       }
     }
   }
@@ -1256,8 +1256,8 @@ search {
   }
 
   #avatar {
-    width: 7rem;
-    height: 7rem;
+    width: 5rem;
+    height: 5rem;
   }
 }
 
