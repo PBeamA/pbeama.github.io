@@ -42,7 +42,8 @@ order: 3
     - Co-presentor: 12 May 2021
       - Presentation Title: "Publishing Papers During My PhD"
   - [PhD Workshops](https://sites.google.com/view/uoworkshop)
-    - Co-host: October 2022 - Current
+    - Host: June 2022 - Current
+    - Co-host: October 2022
     - Participant (Student): October 2018 - October 2021
   - Postgraduate Committee
     - June 2022 - Current
