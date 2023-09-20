@@ -13,17 +13,20 @@ order: 3
   - Weihan Li, 2023, Primary Supervisor: Dr. Xinfeng Ruan (45%), Prof. Jin E. Zhang (30%)
 
 #### Master of Finance
-<!--
 - Ongoing
--->
+  - Darcy Hunter, 2023, Primary Supervisor: A.Prof. Helen Roberts
+  - Vincent Mooney, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
+  - Duncan Roff, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
 - Completed
   - [Ben Wilkinson](https://www.linkedin.com/in/ben-wilkinson-2bb6891b9/), 2023, Primary Supervisor: Dr. Sebastian Gehricke
   - [Jasper Struwig](https://www.linkedin.com/in/jasper-struwig-9b86a016a/), 2022, Primary Supervisor: Prof. Jin E. Zhang (60%)
 
 #### Summer Research Scholarship
+<!--
 - Ongoing
-  - Arrian Ryan, 2023, Primary Supervisor: A.Prof. Helen Roberts
+-->
 - Completed
+  - Arrian Ryan, 2023, Primary Supervisor: A.Prof. Helen Roberts
   - [Jasper Struwig](https://www.linkedin.com/in/jasper-struwig-9b86a016a/), 2021, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - [Andre Castaing](https://www.linkedin.com/in/andre-castaing-840a8315a/), 2019, Primary Supervisor: Prof. Jin E. Zhang (60%)
 
