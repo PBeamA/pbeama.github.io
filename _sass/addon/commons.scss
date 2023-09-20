@@ -731,8 +731,8 @@ $btn-mb: 0.5rem;
 
   #avatar {
     display: block;
-    width: 9rem;
-    height: 9rem;
+    width: 12rem;
+    height: 12rem;
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
@@ -1256,8 +1256,8 @@ search {
   }
 
   #avatar {
-    width: 5rem;
-    height: 5rem;
+    width: 6rem;
+    height: 6rem;
   }
 }
 
