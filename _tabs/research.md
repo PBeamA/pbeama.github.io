@@ -17,7 +17,7 @@ order: 1
 1. [2023 Derivative Markets Conference (DMC)](https://acfr.aut.ac.nz/conferences-and-events/2023-derivative-markets-conference/dmc-2023-full-academic-programme), 7 - 8 September, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
     - Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, *An Empirical Study On The Early Exercise Premium Of American Options: Evidence From OEX And XEO Options*
     - Presented by Weihan Li
-1. [6th Annual GRASFI Conference](https://sustainablefinancealliance.org/annual-conference/2023-schedule/), 23 - 25 August 2023, [Yale University](https://www.yale.edu/), Connecticut, United States.
+1. [6th Annual GRASFI Conference (Global Research Alliance for Sustainable Finance and Investment)](https://sustainablefinancealliance.org/annual-conference/2023-schedule/), 23 - 25 August 2023, [Yale University](https://www.yale.edu/), Connecticut, United States.
     - Gehricke, Sebastian, Pakorn Aschakulporn, Tahir Suleman, and Ben Wilkinson, [*The effect of Divestment from ESG Exchange Traded Funds*](https://sustainablefinancealliance.org/blog/paper/the-effect-of-divestment-from-esg-exchange-traded-funds/)
     - Presented by Sebastian Gehricke
     - Won the ["Best Paper Award"](https://www.linkedin.com/posts/iigf_home-activity-7105094025321320448-D95d/)
