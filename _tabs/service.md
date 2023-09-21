@@ -47,7 +47,7 @@ order: 3
     - Participant (Student): October 2018 - October 2021
   - Postgraduate Committee
     - June 2022 - Current
-  - AKO Committee
+  - AKO (Teaching) Committee
     - January 2023 - Current
   - PhD Representative
     - April 2019 - October 2021
