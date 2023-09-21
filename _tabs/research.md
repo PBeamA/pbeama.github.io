@@ -14,7 +14,7 @@ order: 1
 
 
 ## Conferences
-1. [Derivatives Market Conference 2023](https://acfr.aut.ac.nz/conferences-and-events/2023-derivative-markets-conference/dmc-2023-full-academic-programme), 7 - 8 September, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
+1. [2023 Derivative Markets Conference (DMC)](https://acfr.aut.ac.nz/conferences-and-events/2023-derivative-markets-conference/dmc-2023-full-academic-programme), 7 - 8 September, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
     - Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, *An Empirical Study On The Early Exercise Premium Of American Options: Evidence From OEX And XEO Options*
     - Presented by Weihan Li
 1. [6th Annual GRASFI Conference](https://sustainablefinancealliance.org/annual-conference/2023-schedule/), 23 - 25 August 2023, [Yale University](https://www.yale.edu/), Connecticut, United States.
