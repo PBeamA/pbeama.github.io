@@ -14,6 +14,7 @@ order: 3
 
 #### Master of Finance
 - Ongoing
+  - Mohan Zhang, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - Darcy Hunter, 2023, Primary Supervisor: A.Prof. Helen Roberts
   - [Vincent Mooney](https://www.linkedin.com/in/vincent-mooney/), 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - [Duncan Roff](https://www.linkedin.com/in/duncan-roff-69859b1b9/), 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
