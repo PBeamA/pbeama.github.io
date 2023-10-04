@@ -38,6 +38,7 @@ order: 3
     - Member: 2018 - Current
     - Organiser: October 2019 - October 2021
       - Past Events: [Partial list](https://pbeama.github.io/dqfg/)
+    - [Subgroup](https://sites.google.com/view/dqfgroup/)
   - [Postgraduate Seminars](https://sites.google.com/view/uoseminar)
     - Co-host: October 2022 - Current
     - Co-presentor: 12 May 2021
