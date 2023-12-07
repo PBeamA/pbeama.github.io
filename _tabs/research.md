@@ -14,6 +14,9 @@ order: 1
 
 
 ## Conferences
+1. 2023 [New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2023-nzfm), 7 - 8 December 2023, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
+    - Gehricke, Sebastian, Pakorn Aschakulporn, Tahir Suleman, and Ben Wilkinson, [*The effect of Divestment from ESG Exchange Traded Funds*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0006/832182/Sebastian-Gehricke-et-al-2023-ESG-ETF-Divestment-Working-Paper.pdf)
+    - Presented by Sebastian Gehricke
 1. [2023 Derivative Markets Conference (DMC)](https://acfr.aut.ac.nz/conferences-and-events/2023-derivative-markets-conference/dmc-2023-full-academic-programme), 7 - 8 September, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
     - Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, *An Empirical Study On The Early Exercise Premium Of American Options: Evidence From OEX And XEO Options*
     - Presented by Weihan Li
