@@ -28,8 +28,8 @@ url: ""
 github:
   username: PBeamA             # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -73,11 +73,11 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
+avatar: /assets/img/avatar/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
-avatar: /assets/img/avatar/avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
