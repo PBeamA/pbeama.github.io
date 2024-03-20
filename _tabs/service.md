@@ -9,7 +9,7 @@ order: 3
 - Ongoing
   - Xi (Tim) Xu, 2023, Co-supervisor: A.Prof. Annie Zhang (40%)
   - [Tianjiao Li](https://tianjiao11.github.io/), 2023, Co-supervisor: Prof. Jin E. Zhang (40%)
-  - Ruizi Hu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
+  - [Ruizi Hu](https://immizuko.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - Wen (Derrick) Xu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - [Weihan Li](https://weihanliiiii.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (45%), A.Prof. Xinfeng Ruan (30%)
 
