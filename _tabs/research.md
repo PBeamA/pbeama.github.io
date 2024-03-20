@@ -5,6 +5,8 @@ order: 1
 ---
 
 ## Publications
+1. Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, 2024, An Empirical Study on the Early Exercise Premium of American Options: Evidence from OEX and XEO Options, [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), forthcoming.
+
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2022, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: A Gram-Charlier density approach](https://link.springer.com/article/10.1007/s11147-022-09187-x), [*Review of Derivatives Research*](https://www.springer.com/journal/11147), **25**(3), 233-281.
 
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2022, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://onlinelibrary.wiley.com/share/author/ECBFPGMCDSNCGXD6X6RH?target=10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934) **42**(3), 365-388.
