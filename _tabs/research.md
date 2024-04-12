@@ -61,7 +61,7 @@ order: 1
 - [International Review of Financial Analysis](https://www.sciencedirect.com/journal/international-review-of-financial-analysis)
 - [Journal of Futures Markets](https://onlinelibrary.wiley.com/journal/10969934)
 - [Review of Derivatives Research](https://www.springer.com/journal/11147)
-
+- [Financial Innovation](https://jfin-swufe.springeropen.com/)
 
 ## Links
 - [Google Scholar](https://scholar.google.co.nz/citations?user=GSjsAVAAAAAJ)
