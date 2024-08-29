@@ -14,9 +14,11 @@ order: 3
   - [Weihan Li](https://weihanliiiii.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (45%), A.Prof. Xinfeng Ruan (30%)
 
 #### Master of Finance
+<!--
 - Ongoing
-  - Darcy Hunter, 2023, Primary Supervisor: A.Prof. Helen Roberts
+-->
 - Completed
+  - Darcy Hunter, 2023, Primary Supervisor: A.Prof. Helen Roberts
   - Mohan Zhang, 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
   - [Vincent Mooney](https://www.linkedin.com/in/vincent-mooney/), 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
   - [Duncan Roff](https://www.linkedin.com/in/duncan-roff-69859b1b9/), 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
