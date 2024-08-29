@@ -5,7 +5,12 @@ order: 1
 ---
 
 ## Publications
-1. Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, 2024, [An Empirical Study on the Early Exercise Premium of American Options: Evidence from OEX and XEO Options](https://doi.org/10.1002/fut.22508), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), forthcoming.
+
+1. Aschakulporn, Pakorn, and Jin E. Zhang, 2024, [The Edgeworth and Gram-Charlier Densities](https://doi.org/10.1142/S0219024924500201), [International Journal of Theoretical and Applied Finance](https://www.worldscientific.com/worldscinet/ijtaf), (forthcoming).
+
+1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2024, [Heterogeneous Volatility Information Content for the Realized GARCH modeling and Forecasting Volatility](https://doi.org/10.1515/snde-2024-0013), [Studies in Nonlinear Dynamics and Econometrics](https://www.degruyter.com/journal/key/snde/html), (forthcoming).
+
+1. Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, 2024, [An Empirical Study on the Early Exercise Premium of American Options: Evidence from OEX and XEO Options](https://doi.org/10.1002/fut.22508), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), **44**(7), 1117-1153.
 
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2022, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: A Gram-Charlier density approach](https://link.springer.com/article/10.1007/s11147-022-09187-x), [*Review of Derivatives Research*](https://www.springer.com/journal/11147), **25**(3), 233-281.
 
