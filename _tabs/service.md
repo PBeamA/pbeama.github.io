@@ -18,10 +18,10 @@ order: 3
 - Ongoing
 -->
 - Completed
-  - Darcy Hunter, 2023, Primary Supervisor: A.Prof. Helen Roberts
-  - Mohan Zhang, 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
-  - [Vincent Mooney](https://www.linkedin.com/in/vincent-mooney/), 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
-  - [Duncan Roff](https://www.linkedin.com/in/duncan-roff-69859b1b9/), 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
+  - Darcy Hunter, 2024, Primary Supervisor: A.Prof. Helen Roberts
+  - Mohan Zhang, 2024, Co-Supervisor: Prof. Jin E. Zhang (40%)
+  - [Vincent Mooney](https://www.linkedin.com/in/vincent-mooney/), 2024, Co-Supervisor: Prof. Jin E. Zhang (40%)
+  - [Duncan Roff](https://www.linkedin.com/in/duncan-roff-69859b1b9/), 2024, Co-Supervisor: Prof. Jin E. Zhang (40%)
   - [Ben Wilkinson](https://www.linkedin.com/in/ben-wilkinson-2bb6891b9/), 2023, Primary Supervisor: Dr. Sebastian Gehricke
   - [Jasper Struwig](https://www.linkedin.com/in/jasper-struwig-9b86a016a/), 2022, Primary Supervisor: Prof. Jin E. Zhang (60%)
 
