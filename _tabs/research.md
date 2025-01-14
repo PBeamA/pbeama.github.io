@@ -5,8 +5,9 @@ order: 1
 ---
 
 ## Publications
+1. Lin, Wei, Pakorn Aschakulporn, Yifan Ye, and Jin E. Zhang, 2025, Skewness and Option Pricing under Shot-Noise Jump-Diffusion with Stochastic Volatility Model, [European Journal of Finance](https://www.tandfonline.com/journals/rejf20), (forthcoming).
 
-1. Aschakulporn, Pakorn, and Jin E. Zhang, 2024, [The Edgeworth and Gram-Charlier Densities](https://doi.org/10.1142/S0219024924500201), [International Journal of Theoretical and Applied Finance](https://www.worldscientific.com/worldscinet/ijtaf), (forthcoming).
+1. Aschakulporn, Pakorn, and Jin E. Zhang, 2024, [The Edgeworth and Gram-Charlier Densities](https://doi.org/10.1142/S0219024924500201), [International Journal of Theoretical and Applied Finance](https://www.worldscientific.com/worldscinet/ijtaf), **27**(05n06), 2450020, 1-50.
 
 1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2024, [Heterogeneous Volatility Information Content for the Realized GARCH modeling and Forecasting Volatility](https://doi.org/10.1515/snde-2024-0013), [Studies in Nonlinear Dynamics and Econometrics](https://www.degruyter.com/journal/key/snde/html), (forthcoming).
 
