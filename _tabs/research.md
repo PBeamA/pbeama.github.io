@@ -23,10 +23,10 @@ order: 1
 
 ## Conferences
 1. [International Business and Economy Conference 2025 (IBEC)](https://ibec-info.org/2025/conference-programme), 3 - 6 January 2025, [Assumption University of Thailand](https://www.au.edu/), Bangkok, Thailand.
-    - Ruan, Xinfeng, Pakorn Aschakulporn, and Jin E. Zhang, Towards a Theory of Skewness Trading
+    - Ruan, Xinfeng, Pakorn Aschakulporn, and Jin E. Zhang, *Towards a Theory of Skewness Trading*
     - Presented by Xinfeng Ruan
 1. [International Finance and Banking Society 2024 (IFABS)](https://www.ifabs.org/ifabs2024shanghai), 20 - 22 December 2024, [Shanghai University](https://en.shu.edu.cn/), Shanghai, China.
-    - Ruan, Xinfeng, Pakorn Aschakulporn, and Jin E. Zhang, Towards a Theory of Skewness Trading
+    - Ruan, Xinfeng, Pakorn Aschakulporn, and Jin E. Zhang, *Towards a Theory of Skewness Trading*
     - Presented by Xinfeng Ruan
 1. [2024 New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2024-new-zealand-finance-meeting-programme), 5 - 7 December 2024, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
     - Li, Weihan, Xinfeng Ruan, Jin E. Zhang, and Pakorn Aschakulporn, [*The Rare Disaster Concern Index: RIX*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0003/918408/RIX.pdf)
