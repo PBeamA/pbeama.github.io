@@ -22,6 +22,21 @@ order: 1
 
 
 ## Conferences
+1. [International Business and Economy Conference 2025 (IBEC)](https://ibec-info.org/2025/conference-programme), 3 - 6 January 2025, [Assumption University of Thailand](https://www.au.edu/), Bangkok, Thailand.
+    - Ruan, Xinfeng, Pakorn Aschakulporn, and Jin E. Zhang, Towards a Theory of Skewness Trading
+    - Presented by Xinfeng Ruan
+1. [International Finance and Banking Society 2024 (IFABS)](https://www.ifabs.org/ifabs2024shanghai), 20 - 22 December 2024, [Shanghai University](https://en.shu.edu.cn/), Shanghai, China.
+    - Ruan, Xinfeng, Pakorn Aschakulporn, and Jin E. Zhang, Towards a Theory of Skewness Trading
+    - Presented by Xinfeng Ruan
+1. [2024 New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2024-new-zealand-finance-meeting-programme), 5 - 7 December 2024, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
+    - Li, Weihan, Xinfeng Ruan, Jin E. Zhang, and Pakorn Aschakulporn, [*The Rare Disaster Concern Index: RIX*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0003/918408/RIX.pdf)
+    - Presented by Weihan Li
+1. [2024 New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2024-new-zealand-finance-meeting-programme), 5 - 7 December 2024, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
+    - Hu, Ruizi, Jin E. Zhang, and Pakorn Aschakulporn, [*Option Pricing under Gram-Charlier Density*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0008/925874/925875_Hu_Option-Pricing-under-Gram-Charlier-Density.pdf)
+    - Presented by Ruizi Hu
+1. [2024 New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2024-new-zealand-finance-meeting-programme), 5 - 7 December 2024, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
+    - Xu, Xi, Pakorn Aschakulporn, and Jing A. Zhang, [*Is the Unreal World Real? Corporate Fraud and Investment Credibility*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0010/925714/Is-the-unreal-world-real-Corporate-fraud-and-investment-credibility.pdf)
+    - Presented by Xi Xu
 1. [2023 New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2023-nzfm), 7 - 8 December 2023, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
     - Gehricke, Sebastian, Pakorn Aschakulporn, Tahir Suleman, and Ben Wilkinson, [*The effect of Divestment from ESG Exchange Traded Funds*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0006/832182/Sebastian-Gehricke-et-al-2023-ESG-ETF-Divestment-Working-Paper.pdf)
     - Presented by Sebastian Gehricke
