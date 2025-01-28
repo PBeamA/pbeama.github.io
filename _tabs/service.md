@@ -18,6 +18,8 @@ order: 3
 - Ongoing
 -->
 - Completed
+  - [Trey Lincoln](https://www.linkedin.com/in/trey-lincoln-9941b72b7/), 2025, Co-Supervisor: Prof. Jin E. Zhang (40%)
+  - [Gus Meyers](https://www.linkedin.com/in/gus-meyers-6a64b8235/), 2025, Primary Supervisor: Prof. Helen Roberts
   - Darcy Hunter, 2024, Primary Supervisor: Prof. Helen Roberts
   - Mohan Zhang, 2024, Co-Supervisor: Prof. Jin E. Zhang (40%)
   - [Vincent Mooney](https://www.linkedin.com/in/vincent-mooney/), 2024, Co-Supervisor: Prof. Jin E. Zhang (40%)
