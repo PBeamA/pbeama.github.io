@@ -9,17 +9,21 @@ order: 3
 - Ongoing
   - Xi (Tim) Xu, 2023, Co-supervisor: A.Prof. Annie Zhang (40%)
   - [Tianjiao Li](https://tianjiao11.github.io/), 2023, Co-supervisor: Prof. Jin E. Zhang (40%)
-  - Ruizi Hu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
-  - Wen (Derrick) Xu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
+  - [Ruizi Hu](https://immizuko.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
+  - Derrick X., 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - [Weihan Li](https://weihanliiiii.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (45%), A.Prof. Xinfeng Ruan (30%)
 
 #### Master of Finance
+<!--
 - Ongoing
-  - Darcy Hunter, 2023, Primary Supervisor: A.Prof. Helen Roberts
+-->
 - Completed
-  - Mohan Zhang, 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
-  - [Vincent Mooney](https://www.linkedin.com/in/vincent-mooney/), 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
-  - [Duncan Roff](https://www.linkedin.com/in/duncan-roff-69859b1b9/), 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
+  - [Trey Lincoln](https://www.linkedin.com/in/trey-lincoln-9941b72b7/), 2025, Co-Supervisor: Prof. Jin E. Zhang (40%)
+  - [Gus Meyers](https://www.linkedin.com/in/gus-meyers-6a64b8235/), 2025, Primary Supervisor: Prof. Helen Roberts
+  - Darcy Hunter, 2024, Primary Supervisor: Prof. Helen Roberts
+  - Mohan Zhang, 2024, Co-Supervisor: Prof. Jin E. Zhang (40%)
+  - [Vincent Mooney](https://www.linkedin.com/in/vincent-mooney/), 2024, Co-Supervisor: Prof. Jin E. Zhang (40%)
+  - [Duncan Roff](https://www.linkedin.com/in/duncan-roff-69859b1b9/), 2024, Co-Supervisor: Prof. Jin E. Zhang (40%)
   - [Ben Wilkinson](https://www.linkedin.com/in/ben-wilkinson-2bb6891b9/), 2023, Primary Supervisor: Dr. Sebastian Gehricke
   - [Jasper Struwig](https://www.linkedin.com/in/jasper-struwig-9b86a016a/), 2022, Primary Supervisor: Prof. Jin E. Zhang (60%)
 
@@ -28,7 +32,7 @@ order: 3
 - Ongoing
 -->
 - Completed
-  - [Arrian Ryan](https://www.linkedin.com/in/arrian-ryan/), 2023, Primary Supervisor: A.Prof. Helen Roberts
+  - [Arrian Ryan](https://www.linkedin.com/in/arrian-ryan/), 2023, Primary Supervisor: Prof. Helen Roberts
   - [Jasper Struwig](https://www.linkedin.com/in/jasper-struwig-9b86a016a/), 2021, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - [Andre Castaing](https://www.linkedin.com/in/andre-castaing-840a8315a/), 2019, Primary Supervisor: Prof. Jin E. Zhang (60%)
 
