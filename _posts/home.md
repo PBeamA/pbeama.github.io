@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+description: 
 pin: true
 math: true
 mermaid: true
