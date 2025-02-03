@@ -5,6 +5,16 @@ order: 1
 ---
 
 ## Publications
+1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2025, Modelling and Forecasting the CBOE VIX with TVP-HAR Model. [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131X), (forthcoming).
+
+1. Lin, Wei, Pakorn Aschakulporn, Yifan Ye, and Jin E. Zhang, 2025, [Skewness and Option Pricing under Shot-Noise Jump-Diffusion with Stochastic Volatility Model](https://doi.org/10.1080/1351847X.2025.2453750), [European Journal of Finance](https://www.tandfonline.com/journals/rejf20), (forthcoming).
+
+1. Aschakulporn, Pakorn, and Jin E. Zhang, 2024, [The Edgeworth and Gram-Charlier Densities](https://doi.org/10.1142/S0219024924500201), [International Journal of Theoretical and Applied Finance](https://www.worldscientific.com/worldscinet/ijtaf), **27**(5 & 6), 2450020, 1-50.
+
+1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2024, [Heterogeneous Volatility Information Content for the Realized GARCH modeling and Forecasting Volatility](https://doi.org/10.1515/snde-2024-0013), [Studies in Nonlinear Dynamics and Econometrics](https://www.degruyter.com/journal/key/snde/html), (forthcoming).
+
+1. Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, 2024, [An Empirical Study on the Early Exercise Premium of American Options: Evidence from OEX and XEO Options](https://doi.org/10.1002/fut.22508), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), **44**(7), 1117-1153.
+
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2022, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: A Gram-Charlier density approach](https://link.springer.com/article/10.1007/s11147-022-09187-x), [*Review of Derivatives Research*](https://www.springer.com/journal/11147), **25**(3), 233-281.
 
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2022, [Bakshi, Kapadia, and Madan (2003) risk-neutral moment estimators: An affine jump-diffusion approach](https://onlinelibrary.wiley.com/share/author/ECBFPGMCDSNCGXD6X6RH?target=10.1002/fut.22280), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934) **42**(3), 365-388.
@@ -14,6 +24,21 @@ order: 1
 
 
 ## Conferences
+1. [International Business and Economy Conference 2025 (IBEC)](https://ibec-info.org/2025/conference-programme), 3 - 6 January 2025, [Assumption University of Thailand](https://www.au.edu/), Bangkok, Thailand.
+    - Ruan, Xinfeng, Pakorn Aschakulporn, and Jin E. Zhang, *Towards a Theory of Skewness Trading*
+    - Presented by Xinfeng Ruan
+1. [International Finance and Banking Society 2024 (IFABS)](https://www.ifabs.org/ifabs2024shanghai), 20 - 22 December 2024, [Shanghai University](https://en.shu.edu.cn/), Shanghai, China.
+    - Ruan, Xinfeng, Pakorn Aschakulporn, and Jin E. Zhang, *Towards a Theory of Skewness Trading*
+    - Presented by Xinfeng Ruan
+1. [2024 New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2024-new-zealand-finance-meeting-programme), 5 - 7 December 2024, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
+    - Li, Weihan, Xinfeng Ruan, Jin E. Zhang, and Pakorn Aschakulporn, [*The Rare Disaster Concern Index: RIX*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0003/918408/RIX.pdf)
+    - Presented by Weihan Li
+1. [2024 New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2024-new-zealand-finance-meeting-programme), 5 - 7 December 2024, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
+    - Hu, Ruizi, Jin E. Zhang, and Pakorn Aschakulporn, [*Option Pricing under Gram-Charlier Density*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0008/925874/925875_Hu_Option-Pricing-under-Gram-Charlier-Density.pdf)
+    - Presented by Ruizi Hu
+1. [2024 New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2024-new-zealand-finance-meeting-programme), 5 - 7 December 2024, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
+    - Xu, Xi, Pakorn Aschakulporn, and Jing A. Zhang, [*Is the Unreal World Real? Corporate Fraud and Investment Credibility*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0010/925714/Is-the-unreal-world-real-Corporate-fraud-and-investment-credibility.pdf)
+    - Presented by Xi Xu
 1. [2023 New Zealand Finance Meeting (NZFM)](https://acfr.aut.ac.nz/conferences-and-events/2023-nzfm), 7 - 8 December 2023, [Auckland University of Technology](https://www.aut.ac.nz/), Auckland, New Zealand.
     - Gehricke, Sebastian, Pakorn Aschakulporn, Tahir Suleman, and Ben Wilkinson, [*The effect of Divestment from ESG Exchange Traded Funds*](https://acfr.aut.ac.nz/__data/assets/pdf_file/0006/832182/Sebastian-Gehricke-et-al-2023-ESG-ETF-Divestment-Working-Paper.pdf)
     - Presented by Sebastian Gehricke
@@ -56,10 +81,10 @@ order: 1
 ## Ad-Hoc Reviewer
 - [Applied Economics Letters](https://www.tandfonline.com/journals/rael20)
 - [Finance Research Letters](https://www.sciencedirect.com/journal/finance-research-letters)
+- [Financial Innovation](https://jfin-swufe.springeropen.com/)
 - [International Review of Financial Analysis](https://www.sciencedirect.com/journal/international-review-of-financial-analysis)
 - [Journal of Futures Markets](https://onlinelibrary.wiley.com/journal/10969934)
 - [Review of Derivatives Research](https://www.springer.com/journal/11147)
-
 
 ## Links
 - [Google Scholar](https://scholar.google.co.nz/citations?user=GSjsAVAAAAAJ)
