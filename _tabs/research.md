@@ -84,6 +84,7 @@ order: 1
 - [Financial Innovation](https://jfin-swufe.springeropen.com/)
 - [International Review of Financial Analysis](https://www.sciencedirect.com/journal/international-review-of-financial-analysis)
 - [Journal of Futures Markets](https://onlinelibrary.wiley.com/journal/10969934)
+- [Journal of Risk Finance](https://www.emeraldgrouppublishing.com/journal/jrf)
 - [Journal of Sustainable Finance & Investment](https://www.tandfonline.com/journals/tsfi20)
 - [Review of Derivatives Research](https://www.springer.com/journal/11147)
 
