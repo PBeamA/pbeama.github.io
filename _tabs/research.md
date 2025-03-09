@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## Publications
-1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2025, Modelling and Forecasting the CBOE VIX with TVP-HAR Model. [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131X), (forthcoming).
+1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2025, [Modelling and Forecasting the CBOE VIX with TVP-HAR Model](https://doi.org/10.1002/for.3260). [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131X), (forthcoming).
 
 1. Lin, Wei, Pakorn Aschakulporn, Yifan Ye, and Jin E. Zhang, 2025, [Skewness and Option Pricing under Shot-Noise Jump-Diffusion with Stochastic Volatility Model](https://doi.org/10.1080/1351847X.2025.2453750), [European Journal of Finance](https://www.tandfonline.com/journals/rejf20), (forthcoming).
 
