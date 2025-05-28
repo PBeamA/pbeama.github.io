@@ -90,17 +90,5 @@ order: 1
 
 ## Links
 - [Google Scholar](https://scholar.google.co.nz/citations?user=GSjsAVAAAAAJ)
--     <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0001-5514-4384"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0001-5514-4384
-    </a>
+- <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0001-5514-4384" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/>https://orcid.org/0000-0001-5514-4384</a>
 - <span id="badgeCont805"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont805&rid=AAX-2502-2021"></script></span>
