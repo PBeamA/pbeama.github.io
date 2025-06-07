@@ -79,6 +79,7 @@ order: 1
 -->
 
 ## Ad-Hoc Reviewer
+- [Accounting & Finance](https://onlinelibrary.wiley.com/journal/1467629x)
 - [Applied Economics Letters](https://www.tandfonline.com/journals/rael20)
 - [Finance Research Letters](https://www.sciencedirect.com/journal/finance-research-letters)
 - [Financial Innovation](https://jfin-swufe.springeropen.com/)
