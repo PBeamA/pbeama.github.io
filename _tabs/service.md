@@ -7,6 +7,7 @@ order: 3
 
 #### Doctor of Philosophy
 - Ongoing
+  - Yuzhe Zhang, 2025, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - Xi (Tim) Xu, 2023, Co-Supervisor: A.Prof. Annie Zhang (40%)
   - [Tianjiao Li](https://tianjiao11.github.io/), 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
   - [Ruizi Hu](https://immizuko.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
