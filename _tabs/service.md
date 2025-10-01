@@ -7,8 +7,8 @@ order: 3
 
 #### Doctor of Philosophy
 - Ongoing
-  - Xi (Tim) Xu, 2023, Co-supervisor: A.Prof. Annie Zhang (40%)
-  - [Tianjiao Li](https://tianjiao11.github.io/), 2023, Co-supervisor: Prof. Jin E. Zhang (40%)
+  - Xi (Tim) Xu, 2023, Co-Supervisor: A.Prof. Annie Zhang (40%)
+  - [Tianjiao Li](https://tianjiao11.github.io/), 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
   - [Ruizi Hu](https://immizuko.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - Derrick X., 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - [Weihan Li](https://weihanliiiii.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (45%), A.Prof. Xinfeng Ruan (30%)
