@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## Publications
-1. Aschakulporn, Pakorn, and Jin E. Zhang, 2024, Option Pricing Formulas with Skewness and Kurtosis, [*Review of Derivatives Research*](https://www.springer.com/journal/11147), (forthcoming).
+1. Aschakulporn, Pakorn, and Jin E. Zhang, 2025, Option Pricing Formulas with Skewness and Kurtosis, [*Review of Derivatives Research*](https://www.springer.com/journal/11147), (forthcoming).
 
 1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2025, [Modelling and Forecasting the CBOE VIX with TVP-HAR Model](https://doi.org/10.1002/for.3260), [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131X), **44**(5), 1638-1657.
 
