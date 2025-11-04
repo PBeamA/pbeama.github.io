@@ -4,12 +4,12 @@ icon: fas fa-chalkboard-teacher
 order: 2
 ---
 ## Lecturer
+- [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers?papercode=BSNS114)
+  - 2023S1
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers?papercode=FINC102)
   - 2025S2, 2024S2
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers?papercode=FINC306)
   - 2025S2, 2024S2, 2023S1, 2022S2
-- [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers?papercode=BSNS114)
-  - 2023S1
 
 ## Pre-Lecturer Positions:
 ### Teaching Fellow
