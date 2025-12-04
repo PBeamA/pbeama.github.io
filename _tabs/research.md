@@ -9,7 +9,7 @@ order: 1
 
 1. Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, 2026, VIX term structure and future realized volatility, [*Applied Economics*](https://www.tandfonline.com/journals/raec20), (forthcoming)
 
-1. Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, 2026, [The Rare Disaster Concern Index: RIX](https://doi.org/10.1016/j.gfj.2025.101226), [*Global Finance Journal*](https://www.sciencedirect.com/journal/global-finance-journal), (forthcoming).
+1. Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, 2026, [The Rare Disaster Concern Index: RIX](https://doi.org/10.1016/j.gfj.2025.101226), [*Global Finance Journal*](https://www.sciencedirect.com/journal/global-finance-journal), **69**, 101226.
 
 1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2025, [Modelling and Forecasting the CBOE VIX with TVP-HAR Model](https://doi.org/10.1002/for.3260), [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131X), **44**(5), 1638-1657.
 
