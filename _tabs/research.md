@@ -7,7 +7,7 @@ order: 1
 ## Publications
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2026, [Option Pricing Formulas with Skewness and Kurtosis](https://rdcu.be/eQEnq), [*Review of Derivatives Research*](https://www.springer.com/journal/11147), **29**(1), 1-23.
 
-1. Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, 2026, VIX term structure and future realized volatility, [*Applied Economics*](https://www.tandfonline.com/journals/raec20), (forthcoming)
+1. Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, 2026, [VIX term structure and future realized volatility](http://doi.org/10.1080/00036846.2025.2601895), [*Applied Economics*](https://www.tandfonline.com/journals/raec20), (forthcoming)
 
 1. Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, 2026, [The Rare Disaster Concern Index: RIX](https://doi.org/10.1016/j.gfj.2025.101226), [*Global Finance Journal*](https://www.sciencedirect.com/journal/global-finance-journal), **69**, 101226.
 
