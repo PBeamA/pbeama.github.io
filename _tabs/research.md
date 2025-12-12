@@ -30,6 +30,12 @@ order: 1
 
 
 ## Conferences
+1. 30th [New Zealand Finance Colloquium (NZFC)](https://nzfc.ac.nz/), 12 - 13 February 2026, [Massey University](https://www.massey.ac.nz/), Auckland, New Zealand.
+    - Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, *VIX term structure and future realized volatility*
+    - (To be) Presented by Tianjiao Li
+1. 30th [New Zealand Finance Colloquium (NZFC)](https://nzfc.ac.nz/), 12 - 13 February 2026, [Massey University](https://www.massey.ac.nz/), Auckland, New Zealand.
+    - Zhang, Yuzhe, Pakorn Aschakulporn, and Jin E. Zhang, *Forecasting VIX with Deep Learning: A Stacking Ensemble Approach*
+    - (To be) Presented by Yuzhe Zhang
 1. [International Business and Economy Conference 2025 (IBEC)](https://ibec-info.org/2025/conference-programme), 3 - 6 January 2025, [Assumption University of Thailand](https://www.au.edu/), Bangkok, Thailand.
     - Ruan, Xinfeng, Pakorn Aschakulporn, and Jin E. Zhang, *Towards a Theory of Skewness Trading*
     - Presented by Xinfeng Ruan
