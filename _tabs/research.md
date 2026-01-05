@@ -7,7 +7,7 @@ order: 1
 ## Publications
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2026, [Option Pricing Formulas with Skewness and Kurtosis](https://rdcu.be/eQEnq), [*Review of Derivatives Research*](https://www.springer.com/journal/11147), **29**(1), 1-23.
 
-1. Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, 2026, [VIX term structure and future realized volatility](https://doi.org/10.1080/00036846.2025.2601895), [*Applied Economics*](https://www.tandfonline.com/journals/raec20), (forthcoming)
+1. Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, 2026, [VIX term structure and future realized volatility](https://doi.org/10.1080/00036846.2025.2601895), [*Applied Economics*](https://www.tandfonline.com/journals/raec20), (forthcoming), 1-17.
 
 1. Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, 2026, [The Rare Disaster Concern Index: RIX](https://doi.org/10.1016/j.gfj.2025.101226), [*Global Finance Journal*](https://www.sciencedirect.com/journal/global-finance-journal), **69**, 101226.
 
@@ -15,9 +15,9 @@ order: 1
 
 1. Lin, Wei, Pakorn Aschakulporn, Yifan Ye, and Jin E. Zhang, 2025, [Skewness and Option Pricing under Shot-Noise Jump-Diffusion with Stochastic Volatility Model](https://doi.org/10.1080/1351847X.2025.2453750), [European Journal of Finance](https://www.tandfonline.com/journals/rejf20), **31**(8), 990–1017.
 
-1. Aschakulporn, Pakorn, and Jin E. Zhang, 2024, [The Edgeworth and Gram-Charlier Densities](https://www.worldscientific.com/share/9WKFSPNVQDQCS5DWD9I5?target=10.1142/S0219024924500201), [International Journal of Theoretical and Applied Finance](https://www.worldscientific.com/worldscinet/ijtaf), **27**(5 & 6), 2450020, 1-50.
+1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2025, [Heterogeneous Volatility Information Content for the Realized GARCH modeling and Forecasting Volatility](https://doi.org/10.1515/snde-2024-0013), [Studies in Nonlinear Dynamics and Econometrics](https://www.degruyter.com/journal/key/snde/html), **29**(6), 769-785.
 
-1. Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, 2024, [Heterogeneous Volatility Information Content for the Realized GARCH modeling and Forecasting Volatility](https://doi.org/10.1515/snde-2024-0013), [Studies in Nonlinear Dynamics and Econometrics](https://www.degruyter.com/journal/key/snde/html), (forthcoming).
+1. Aschakulporn, Pakorn, and Jin E. Zhang, 2024, [The Edgeworth and Gram-Charlier Densities](https://www.worldscientific.com/share/9WKFSPNVQDQCS5DWD9I5?target=10.1142/S0219024924500201), [International Journal of Theoretical and Applied Finance](https://www.worldscientific.com/worldscinet/ijtaf), **27**(5 & 6), 2450020, 1-50.
 
 1. Li, Weihan, Jin E. Zhang, Xinfeng Ruan, and Pakorn Aschakulporn, 2024, [An Empirical Study on the Early Exercise Premium of American Options: Evidence from OEX and XEO Options](https://doi.org/10.1002/fut.22508), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), **44**(7), 1117-1153.
 
