@@ -14,7 +14,7 @@ order: 3
   - [Ruizi Hu](https://immizuko.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - Wen (Derrick) Xu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
 - Completed
-  - [Weihan Li](https://weihanliiiii.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (45%), A.Prof. Xinfeng Ruan (30%)
+  - [Weihan Li](https://weihanliiiii.github.io/), 2023 - 2025, Primary Supervisor: Prof. Jin E. Zhang (45%), A.Prof. Xinfeng Ruan (30%)
 
 #### Master of Finance
 <!--
