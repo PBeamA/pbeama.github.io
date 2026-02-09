@@ -31,7 +31,7 @@ order: 1
 
 ## Conferences
 1. 30th [New Zealand Finance Colloquium (NZFC)](https://nzfc.ac.nz/), 12 - 13 February 2026, [Massey University](https://www.massey.ac.nz/), Auckland, New Zealand.
-    - Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, *VIX term structure and future realized volatility*
+    - Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, *VIX term structure managed portfolios*
     - (To be) Presented by Tianjiao Li
 1. 30th [New Zealand Finance Colloquium (NZFC)](https://nzfc.ac.nz/), 12 - 13 February 2026, [Massey University](https://www.massey.ac.nz/), Auckland, New Zealand.
     - Zhang, Yuzhe, Pakorn Aschakulporn, and Jin E. Zhang, *Forecasting VIX with Deep Learning: A Stacking Ensemble Approach*
