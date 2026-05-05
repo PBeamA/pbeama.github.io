@@ -51,8 +51,10 @@ order: 3
     - [Subgroup](https://sites.google.com/view/dqfgroup/)
   - [Postgraduate Seminars](https://sites.google.com/view/uoseminar)
     - Co-host: October 2022 - Current
+<!--
     - Co-presentor: 12 May 2021
       - Presentation Title: "Publishing Papers During My PhD"
+-->
   - [PhD Workshops](https://sites.google.com/view/uoworkshop)
     - Host: June 2022 - Current
     - Co-host: October 2022
