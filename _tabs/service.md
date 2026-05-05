@@ -12,8 +12,8 @@ order: 3
   - Xi (Tim) Xu, 2023, Co-Supervisor: A.Prof. Annie Zhang (40%)
   - [Tianjiao (TJ) Li](https://tianjiao11.github.io/), 2023, Co-Supervisor: Prof. Jin E. Zhang (40%)
   - [Ruizi Hu](https://immizuko.github.io/), 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
-  - Wen (Derrick) Xu, 2023, Primary Supervisor: Prof. Jin E. Zhang (60%)
 - Completed
+  - Wen (Derrick) Xu, 2023 - 2026, Primary Supervisor: Prof. Jin E. Zhang (60%)
   - [Weihan Li](https://weihanliiiii.github.io/), 2023 - 2025, Primary Supervisor: Prof. Jin E. Zhang (45%), A.Prof. Xinfeng Ruan (30%)
 
 #### Master of Finance
