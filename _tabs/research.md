@@ -31,9 +31,10 @@ order: 1
 
 1. Aschakulporn, Pakorn, and Jin E. Zhang, 2021, [New Zealand Whole Milk Powder Options](https://onlinelibrary.wiley.com/share/author/V3DEQPUW7F9BI8UCJPTG?target=10.1111/acfi.12660), [*Accounting and Finance*](https://onlinelibrary.wiley.com/journal/1467629x) **61**(S1), 2201-2246.
 
-
-
 ## Conferences
+1. 2026 XJTLU Derivatives and FinTech Workshop, 13 June 2026, [Xi’an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/), Suzhou, China.
+    - Xu, Wen, Pakorn Aschakulporn, and Jin E. Zhang, *Discrete-Time Stochastic Volatility Models, the CBOE VIX1D and One-Day Volatility Risk Premium*
+    - (To be) Presented by Wen Xu
 1. 30th [New Zealand Finance Colloquium (NZFC)](https://nzfc.ac.nz/), 12 - 13 February 2026, [Massey University](https://www.massey.ac.nz/), Auckland, New Zealand.
     - Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, *VIX term structure managed portfolios*
     - Presented by Tianjiao Li
