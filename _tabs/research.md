@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## Publications
-1. Hu, Ruizi, Jin E. Zhang, and Pakorn Aschakulporn, 2026, [The Greeks of the Bakshi-Madan Formula](https://doi.org/10.1007/s11147-026-09237-8), [*Review of Derivatives Research*](https://www.springer.com/journal/11147), **29**(17), 1-40.
+1. Hu, Ruizi, Jin E. Zhang, and Pakorn Aschakulporn, 2026, [The Greeks of the Bakshi-Madan Formula](https://doi.org/10.1007/s11147-026-09237-8), [*Review of Derivatives Research*](https://www.springer.com/journal/11147), **29**(1), 1-40.
 
 1. Li, Tianjiao, Pakorn Aschakulporn, and Jin E. Zhang, 2026, [VIX term structure and future realized volatility](https://doi.org/10.1080/00036846.2025.2601895), [*Applied Economics*](https://www.tandfonline.com/journals/raec20), (forthcoming), 1-17.
 
